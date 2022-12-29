@@ -1,0 +1,27 @@
+*{
+  text-align: center;
+  border-top: 1px solid royalblue ;
+}
+h3{
+  text-decoration: solid;
+  font-size: 25px;
+  background-color: bisque;
+}
+input{
+  border: 2px solid blue;
+  margin: 28px;
+  padding: 1%;
+  border-radius: 5%;
+  font-size: 20px;
+}
+button{
+  padding: 7px 15px;
+  margin-top: 0;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: grey;
+  border-radius: 5%;
+}
+.new-task{
+  margin: 1rem 0;
+}
